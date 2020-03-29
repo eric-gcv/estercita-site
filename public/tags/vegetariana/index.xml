@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vegetariana on La Cocina de Estercita</title>
+    <link>/tags/vegetariana/</link>
+    <description>Recent content in Vegetariana on La Cocina de Estercita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/vegetariana/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CALZONES ROTOS</title>
+      <link>/post/calzones-rotos/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/calzones-rotos/</guid>
+      <description>
+
+
+&lt;p&gt;Se te antoja algo dulce y sabroso para el desayuno o la once? Prueba con estos deliciosos calzones rotos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EMPANADITAS DE QUESO</title>
+      <link>/post/2020-03-29-empanaditas-de-queso/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-03-29-empanaditas-de-queso/</guid>
+      <description>
+
+
+&lt;p&gt;Una receta de deliciosas empanaditas de queso para compartir&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HUMITAS EN HOJAS</title>
+      <link>/post/30-min/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/30-min/</guid>
+      <description>
+
+
+&lt;p&gt;“Esas envueltitas, Mami Ortega!”. La receta probada de humitas al más puro estilo Norma Ortega.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

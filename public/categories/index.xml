@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on La Cocina de Estercita</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on La Cocina de Estercita</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Almuerzo</title>
+      <link>/categories/almuerzo/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/almuerzo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desayuno</title>
+      <link>/categories/desayuno/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/desayuno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Once</title>
+      <link>/categories/once/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/once/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
