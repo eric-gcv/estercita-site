@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "es"
-defaultContentLanguage = "es"
+defaultContentLanguage = "en"
 title = "La Cocina de Estercita"
 theme = "hugo-theme-dream"
 
