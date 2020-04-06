@@ -21,7 +21,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   author = "Norma 'Estercita' Ortega"
   # description = ""
-  avatar = "/img/avatar.jpg"
+  avatar = "/img/estercita-avatar.jpg"
   motto = "A comer!"
   
   email = "elenavilchezo@gmail.com"

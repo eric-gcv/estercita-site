@@ -6,7 +6,7 @@
     <description>Recent content in Tags on La Cocina de Estercita</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Chilena</title>
       <link>/tags/chilena/</link>
-      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/chilena/</guid>
       <description></description>
@@ -23,16 +23,25 @@
     <item>
       <title>Dulces</title>
       <link>/tags/dulces/</link>
-      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/dulces/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Estercita Original</title>
+      <link>/tags/estercita-original/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/estercita-original/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vegetariana</title>
       <link>/tags/vegetariana/</link>
-      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/vegetariana/</guid>
       <description></description>
