@@ -18,7 +18,7 @@ draft: false
 
 ---
 
-Se te antoja algo dulce y sabroso para el desayuno o la once? Prueba con estos deliciosos calzones rotos.
+Se te antoja algo dulce y sabroso para el desayuno o la once? Prueba con estos deliciosos calzones rotos. Sirven 6 a 8 personas.
 
 
 <!--more-->
@@ -27,7 +27,7 @@ Se te antoja algo dulce y sabroso para el desayuno o la once? Prueba con estos d
 
 ## Ingredientes (Ig)
 
-* ½ kilo (k) de harina,  con polvos de hornear 
+* ½ kilo (kg) de harina,  con polvos de hornear 
 * 3 huevos
 * 2 cucharadas (cda) de margarina
 * 2 cucharadas (cda) azúcar flor
@@ -40,10 +40,10 @@ Se te antoja algo dulce y sabroso para el desayuno o la once? Prueba con estos d
 Mezclar: 
 1 huevo batido
 2 yemas, 3 cucharadas de agua por si falta
-Harinas polvos, azúcar flor
-Ralladura margarina y agua de a poquito. Se deja reposar un poco
-Se cortan y se fríen 
-Se espolvorea con azúcar flor  
+Harinas polvos, azúcar flor, Ralladura de limón, margarina y agua de a poquito. Se deja reposar 10 minutos.
+Se cortan tiritas en rectángulo, se hace un corte al medio y uno de lo lados se pasa
+por ese corte para formar la figura, luego se fríen
+Para servir se espolvorea con azúcar flor.
 
 # Variante: Otra versón
 ## Ingredientes (Ig)
@@ -53,5 +53,5 @@ Se espolvorea con azúcar flor
 * 1 ½ cucharadita de polvo royal
 * ½ taza de azúcar flor cernida
 * 2 cucharadas de mantequilla, es  mejor hacerlo con margarina
-* Pisca de sal
+* Pizca de sal
 
